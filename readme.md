@@ -1,17 +1,17 @@
 ### M3U8 Playlist
-- ```https://iptv-scraper-re.vercel.app/roxiestreams```
-- ```https://iptv-scraper-re.vercel.app/ppvland```
+- ```https://pigzillaaa-scraper.vercel.app/roxiestreams```
+- ```https://pigzillaaa-scraper.vercel.app/ppvland```
   - ```/ppvland?timezone=pt  |  ["pt", "mt", "et", "gmt", "cet", "pht"]```
   - ```/ppvpland?proxy=base64_encoded_proxy```
-- ```https://iptv-scraper-re.vercel.app/streambtw```
-- ```https://iptv-scraper-re.vercel.app/nbawebcast```
-- ```https://iptv-scraper-re.vercel.app/mlbwebcast```
-- ```https://iptv-scraper-re.vercel.app/nflwebcast```
-- ```https://iptv-scraper-re.vercel.app/nhlwebcast```
-- ```https://iptv-scraper-re.vercel.app/pixelsport```
-- ```https://iptv-scraper-re.vercel.app/aesport```
-- ```https://iptv-scraper-re.vercel.app/nizarstream```
-- ```https://iptv-scraper-re.vercel.app/streameast```
+- ```https://pigzillaaa-scraper.vercel.app/streambtw```
+- ```https://pigzillaaa-scraper.vercel.app/nbawebcast```
+- ```https://pigzillaaa-scraper.vercel.app/mlbwebcast```
+- ```https://pigzillaaa-scraper.vercel.app/nflwebcast```
+- ```https://pigzillaaa-scraper.vercel.app/nhlwebcast```
+- ```https://pigzillaaa-scraper.vercel.app/pixelsport```
+- ```https://pigzillaaa-scraper.vercel.app/aesport```
+- ```https://pigzillaaa-scraper.vercel.app/nizarstream```
+- ```https://pigzillaaa-scraper.vercel.app/streameast```
 
 
 ### Recommended Players
