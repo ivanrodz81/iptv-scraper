@@ -627,6 +627,9 @@ https://zekonew.newkso.ru/zeko/premium317/mono.m3u8|User-Agent=Mozilla/5.0 (X11;
 #EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/ivanrodz81/iptv-scraper/refs/heads/main/logos/fxx-usa.png" group-title="UNITED STATES",FXX USA
 https://ddy6new.newkso.ru/ddy6/premium298/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/23nlufml" group-title="UNITED STATES",FYI USA
+https://dokko1new.newkso.ru/dokko1/premium665/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
+
 #EXTINF:-1 tvg-id="FanDuel.Sports.Network.SoCal.us" tvg-logo="https://raw.githubusercontent.com/ivanrodz81/iptv-scraper/refs/heads/main/logos/fanduel-sports-network-socal.png" group-title="UNITED STATES",FanDuel Sports Network SoCal
 https://nfsnew.newkso.ru/nfs/premium902/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
 
@@ -1058,6 +1061,9 @@ https://wikinew.newkso.ru/wiki/premium440/mono.m3u8|User-Agent=Mozilla/5.0 (X11;
 
 #EXTINF:-1 tvg-id="Oxygen.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/ivanrodz81/iptv-scraper/refs/heads/main/logos/oxygen-true-crime.png" group-title="UNITED STATES",Oxygen True Crime
 https://windnew.newkso.ru/wind/premium332/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/2yt4r3at" group-title="UNITED STATES",PBS USA
+https://ddy6new.newkso.ru/ddy6/premium210/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/ivanrodz81/iptv-scraper/refs/heads/main/logos/pdc-tv.png" group-title="UNITED STATES",PDC TV
 https://windnew.newkso.ru/wind/premium43/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
@@ -1781,6 +1787,9 @@ https://ddy6new.newkso.ru/ddy6/premium40/mono.m3u8|User-Agent=Mozilla/5.0 (X11; 
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/ivanrodz81/iptv-scraper/refs/heads/main/logos/Tennisplus.png" group-title="FRANCE",Tennis+ 1
 https://zekonew.newkso.ru/zeko/premium700/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/ivanrodz81/iptv-scraper/refs/heads/main/logos/Tennisplus.png" group-title="FRANCE",Tennis+ 14
+https://nfsnew.newkso.ru/nfs/premium713/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/ivanrodz81/iptv-scraper/refs/heads/main/logos/Tennisplus.png" group-title="FRANCE",Tennis+ 15
 https://wikinew.newkso.ru/wiki/premium714/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
