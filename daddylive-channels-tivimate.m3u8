@@ -2007,6 +2007,9 @@ https://dokko1new.newkso.ru/dokko1/premium95/mono.m3u8|User-Agent=Mozilla/5.0 (X
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/ivanrodz81/iptv-scraper/refs/heads/main/logos/bein-sports-6.png" group-title="OTHERS",beIN Sports MENA 6
 https://dokko1new.newkso.ru/dokko1/premium96/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
 
+#EXTINF:-1 tvg-id="test" tvg-logo="https://tinyurl.com/2bybolfk" group-title="OTHERS",beIN Sports MENA 7
+https://dokko1new.newkso.ru/dokko1/premium97/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
+
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/ivanrodz81/iptv-scraper/refs/heads/main/logos/bein-sports-8.png" group-title="OTHERS",beIN Sports MENA 8
 https://ddy6new.newkso.ru/ddy6/premium98/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
 
@@ -2115,6 +2118,9 @@ https://nfsnew.newkso.ru/nfs/premium29/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U;
 #EXTINF:-1 tvg-id="test" tvg-logo="https://tinyurl.com/242sm933" group-title="OTHERS",Stream 030
 https://nfsnew.newkso.ru/nfs/premium30/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
 
+#EXTINF:-1 tvg-id="test" tvg-logo="https://tinyurl.com/242sm933" group-title="OTHERS",Stream 055
+https://ddy6new.newkso.ru/ddy6/premium55/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
+
 #EXTINF:-1 tvg-id="test" tvg-logo="https://tinyurl.com/242sm933" group-title="OTHERS",Stream 059
 https://windnew.newkso.ru/wind/premium59/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
 
@@ -2126,6 +2132,30 @@ https://ddy6new.newkso.ru/ddy6/premium69/mono.m3u8|User-Agent=Mozilla/5.0 (X11; 
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://tinyurl.com/242sm933" group-title="OTHERS",Stream 076
 https://windnew.newkso.ru/wind/premium76/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://tinyurl.com/242sm933" group-title="OTHERS",Stream 077
+https://nfsnew.newkso.ru/nfs/premium77/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://tinyurl.com/242sm933" group-title="OTHERS",Stream 086
+https://dokko1new.newkso.ru/dokko1/premium86/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://tinyurl.com/242sm933" group-title="OTHERS",Stream 105
+https://ddy6new.newkso.ru/ddy6/premium105/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://tinyurl.com/242sm933" group-title="OTHERS",Stream 106
+https://ddy6new.newkso.ru/ddy6/premium106/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://tinyurl.com/242sm933" group-title="OTHERS",Stream 107
+https://ddy6new.newkso.ru/ddy6/premium107/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://tinyurl.com/242sm933" group-title="OTHERS",Stream 108
+https://ddy6new.newkso.ru/ddy6/premium108/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://tinyurl.com/242sm933" group-title="OTHERS",Stream 109
+https://ddy6new.newkso.ru/ddy6/premium109/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://tinyurl.com/242sm933" group-title="OTHERS",Stream 110
+https://ddy6new.newkso.ru/ddy6/premium110/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://tinyurl.com/242sm933" group-title="OTHERS",Stream 486
 https://ddy6new.newkso.ru/ddy6/premium486/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
