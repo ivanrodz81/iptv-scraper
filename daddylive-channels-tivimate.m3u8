@@ -1179,6 +1179,9 @@ https://zekonew.newkso.ru/zeko/premium293/mono.m3u8|User-Agent=Mozilla/5.0 (X11;
 #EXTINF:-1 tvg-id="Ring.BG.bg" tvg-logo="https://raw.githubusercontent.com/ivanrodz81/iptv-scraper/refs/heads/main/logos/ring-bulgaria.png" group-title="BULGARIA",Ring Bulgaria
 https://windnew.newkso.ru/wind/premium471/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
 
+#EXTINF:-1 tvg-id="test" tvg-logo="https://tinyurl.com/24dl6yk6" group-title="FRANCE",RMC Sport 2 France
+https://ddy6new.newkso.ru/ddy6/premium120/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
+
 #EXTINF:-1 tvg-id="Root.Sports.Northwest.us" tvg-logo="https://raw.githubusercontent.com/ivanrodz81/iptv-scraper/refs/heads/main/logos/root-sports-northwest.png" group-title="UNITED STATES",Root Sports Northwest
 https://dokko1new.newkso.ru/dokko1/premium920/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
 
@@ -2156,6 +2159,9 @@ https://ddy6new.newkso.ru/ddy6/premium109/mono.m3u8|User-Agent=Mozilla/5.0 (X11;
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://tinyurl.com/242sm933" group-title="OTHERS",Stream 110
 https://ddy6new.newkso.ru/ddy6/premium110/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://tinyurl.com/242sm933" group-title="OTHERS",Stream 151
+https://ddy6new.newkso.ru/ddy6/premium151/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://tinyurl.com/242sm933" group-title="OTHERS",Stream 486
 https://ddy6new.newkso.ru/ddy6/premium486/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://forcedtoplay.xyz/|Origin=https://forcedtoplay.xyz
